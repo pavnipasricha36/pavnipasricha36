@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Profile Banner" width="100%" />
+<img src="./banner.png" alt="Profile Banner" width="100%" />
 
 # Hi, I'm Pavni 👋
 
