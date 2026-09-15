@@ -2,7 +2,9 @@
 
 <img src="./assets/banner.png" alt="Profile Banner" width="100%" />
 
-# Hi, I'm Pavni 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pavni+%F0%9F%91%8B" alt="Hi, I'm Pavni" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Learning+Python+%7C+SQL+%7C+Power+BI;Sociology+taught+me+to+ask+why+people+behave+the+way+they+do+%E2%80%94+data+helps+me+answer+it+with+evidence." alt="Typing SVG" />
 
